@@ -1,6 +1,6 @@
-public class PrimerActividad 
+public class PrimerActividad
 {
 	public static void main(String args[]) {
-		System.out.println("Laureano"  + "Ivan" + "Eliana");
+		System.out.println("Laureano" + "Ivan" + "Eliana" + "Fausto");
 	}
 }
